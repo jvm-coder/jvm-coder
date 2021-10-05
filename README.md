@@ -1,4 +1,6 @@
-
+<div align="center">
+    <img src="https://c.tenor.com/FqcZUqm1DtAAAAAi/hi-hello.gif"/>
+</div>
 
 <!---
 jvm-coder/jvm-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
