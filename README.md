@@ -37,8 +37,6 @@ You can click the Preview link to take a look at your changes.
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=jvm-coder&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvm-coder&layout=compact&theme=radical)
 
-[![@jvm_coder's Holopin board](https://holopin.io/api/user/board?user=jvm_coder)](https://holopin.io/@jvm_coder)
-
 <p style="margin: 20px 20px 20px 20px" align="center">
     <img src="https://user-images.githubusercontent.com/54509629/135729677-82e1d8b4-5179-4d50-b428-c0413e23d1f2.gif" alt="Aakash" width=400px/>
 </p>
