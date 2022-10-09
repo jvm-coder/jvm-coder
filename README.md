@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/jvm-coder/jvm-coder/master/name.svg" alt="Marton Lederer" />
+</h1>
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </div>
