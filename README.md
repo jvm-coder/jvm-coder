@@ -32,7 +32,11 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.instagram.com/assassin.java/" target="blank"><img align="center" src="https://c.tenor.com/ebEdsaqwQqgAAAAi/instagram-gif.gif" alt="Aakash's Instagram" height="50" width="50" /></a>
 
 
-
+<p align="center">
+ <img alt = "profile views" src="https://komarev.com/ghpvc/?username=jvm-coder&style=flat&color=red"> •   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/jvm-coder?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/jvm-coder?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=jvm-coder&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvm-coder&layout=compact&theme=radical)
