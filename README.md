@@ -27,6 +27,8 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **Think Think Think...**
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jvm-coder)
+
 <h3 align="left">Connect with me:</h3>
 
 [<img align="left" alt="Aakash Kumar Sahoo | LinkedIn" width="55px" src="https://user-images.githubusercontent.com/54509629/135730249-efac72bc-a6e2-4d31-a693-864bbbc2afac.gif" />](https://www.linkedin.com/in/aakash-kumar-sahoo-01113b217/)
