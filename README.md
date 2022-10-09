@@ -37,9 +37,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<img alt="qA" src="https://github-readme-stats.vercel.app/api?username=jvm-coder&show_icons=true&theme=radical">
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jvm-coder&show_icons=true&theme=radical">
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvm-coder&layout=compact&theme=radical)
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvm-coder&layout=compact&theme=radical">
 
 
 <p style="margin: 20px 20px 20px 20px" align="center">
