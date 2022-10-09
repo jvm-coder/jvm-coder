@@ -36,8 +36,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/github/stars/jvm-coder?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
+<div align = center>
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=jvm-coder&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvm-coder&layout=compact&theme=radical)
+</div>
 
 <p style="margin: 20px 20px 20px 20px" align="center">
     <img src="https://user-images.githubusercontent.com/54509629/135729677-82e1d8b4-5179-4d50-b428-c0413e23d1f2.gif" alt="Aakash" width=400px/>
