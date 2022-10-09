@@ -51,8 +51,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-[![Aakash's github activity graph](https://activity-graph.herokuapp.com/graph?username=jvm-coder&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jvm-coder&bg_color=0d0d0d&color=52f033&line=1ac1f9&point=52f033&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p style="margin: 20px 20px 20px 20px" align="center">
     <img src="https://user-images.githubusercontent.com/54509629/135729677-82e1d8b4-5179-4d50-b428-c0413e23d1f2.gif" alt="Aakash" width=400px/>
