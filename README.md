@@ -38,6 +38,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvm-coder&theme=dark&hide_border=true"/>
+  </a>
+</p>
+
+
+<p align="center">
     <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=jvm-coder&show_icons=true&theme=radical">
     <br>
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvm-coder&layout=compact&theme=radical">
