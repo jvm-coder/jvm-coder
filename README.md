@@ -60,6 +60,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Aakash's github activity graph](https://activity-graph.herokuapp.com/graph?username=jvm-coder&bg_color=0d0d0d&color=52f033&line=1ac1f9&point=52f033&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Aakash's github activity graph](https://skyline.github.com/jvm-coder/2022)]
-
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
 
