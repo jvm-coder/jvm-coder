@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/jvm-coder/jvm-coder/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/jvm-coder/jvm-coder/master/name.svg" alt="Aakash Kumar Sahoo" />
 </h1>
 
 <div align="center">
